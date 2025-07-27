@@ -1,0 +1,17 @@
+<meta>
+    <info author="YBN" version="1.0" name="YBN HUD" description="Custom HUD for MTASA" />
+    
+    <!-- Client-side script -->
+    <script src="client.lua" type="client" />
+    
+    <!-- Server-side script -->
+    <script src="server.lua" type="server" />
+    
+    <file src="heart_grey.png" />
+    <file src="heart_red.png" />
+    <file src="hunger.png" />
+    <file src="microphone.png" />
+    <file src="shield_grey.png" />
+    <file src="shield_white.png" />
+    <file src="thirst.png" />
+</meta>
