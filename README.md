@@ -17,4 +17,4 @@ Mevcut sunucu altyapınıza kolayca entegre edilebilir, düzenlenebilir yapı.
 Neden YBN-HUD?
 Sunucunuzda gerçekçiliği ve temizliği ön planda tutuyorsanız, YBN-HUD tam size göre. Gereksiz karmaşadan uzak durur, oyuncu deneyimini önceliklendirir.
 
-görsel:: <img width="430" height="108" alt="image" src="https://github.com/user-attachments/assets/5ecda165-0c3f-44e5-a618-6de8517ba054" />
+<img width="430" height="108" alt="image" src="https://github.com/user-attachments/assets/5ecda165-0c3f-44e5-a618-6de8517ba054" />
