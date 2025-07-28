@@ -103,15 +103,15 @@ addEventHandler("setVoiceActive", localPlayer, function(active)
     stats.microphone = not not active
 end)
 
-addCommandHandler("togglehud", function()
+addCommandHandler("hud", function()
     removeEventHandler("onClientRender", root, drawYBNHUD)
     if not _G.hudHidden then
         _G.hudHidden = true
-        outputChatBox("HUD kapandı", 255,255,0)
+        outputChatBox("[YBN] HUD kapandı", 255,255,0)
     else
         addEventHandler("onClientRender", root, drawYBNHUD)
         _G.hudHidden = false
-        outputChatBox("HUD açıldı", 255,255,0)
+        outputChatBox("[YBN] HUD açıldı", 255,255,0)
     end
 end)
 
